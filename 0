@@ -1,0 +1,6 @@
+Using connection: mysql
+
+Generating migrations for: admins, contact_us, md_dropdowns, oauth_access_tokens, oauth_auth_codes, oauth_clients, oauth_personal_access_clients, oauth_refresh_tokens, permission_role, permissions, reviews, roles, subscribers, subscription_plan, users
+
+ Do you want to log these migrations in the migrations table? [Y/n] :
+ > 
